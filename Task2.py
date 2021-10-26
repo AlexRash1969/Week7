@@ -1,6 +1,6 @@
 '''
 example:
-vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 class Ball:
     pass
 '''

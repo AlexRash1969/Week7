@@ -2,10 +2,8 @@
 class Library:
     pass
 
-
 class Book:
     pass
-
 
 class Author:
     pass
